@@ -9,7 +9,7 @@ project:
 website:
   page-navigation: true
   title: "Template for training resources in Python"
-  site-url: "https://github.com/AIML4OS/test_bartek/"
+  site-url: "https://aiml4os.github.io/test_bartek/"
   repo-url: "https://github.com/AIML4OS/test_bartek"
   repo-actions: [edit, source, issue]
   sidebar:
