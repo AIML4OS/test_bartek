@@ -1,1 +1,1 @@
-Sitemap: https://aiml4os.github.io/test_bartek/sitemap.xml
+Sitemap: https://github.com/AIML4OS/test_bartek/sitemap.xml
