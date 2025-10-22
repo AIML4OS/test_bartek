@@ -1,6 +1,0 @@
----
-title: "Quarto Basics"
-format: ipynb # This qmd file will be compiled as a jupyter notebook
-jupyter: python3
----
-
