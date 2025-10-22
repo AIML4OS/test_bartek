@@ -3,6 +3,7 @@ project:
   render: # Add HERE new chapters and new notebooks
     - index.qmd
     - chapters/chapter1.qmd
+    - chapters/chapter1.qmd
     - notebooks/notebook1.qmd
 
 website:
@@ -18,6 +19,8 @@ website:
         text: Introduction
       - href: chapters/chapter1.qmd
         text: A complete example
+      - href: chapters/chapter2.qmd
+        text: A test
 
 format:
   html:
