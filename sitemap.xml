@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aiml4os.github.io/test_bartek/index.html</loc>
-    <lastmod>2025-10-22T11:32:00.852Z</lastmod>
+    <loc>https://aiml4os.github.io/test_bartek/chapters/chapter1.html</loc>
+    <lastmod>2025-10-22T11:48:46.606Z</lastmod>
   </url>
   <url>
-    <loc>https://aiml4os.github.io/test_bartek/chapters/chapter1.html</loc>
-    <lastmod>2025-10-22T11:32:00.834Z</lastmod>
+    <loc>https://aiml4os.github.io/test_bartek/index.html</loc>
+    <lastmod>2025-10-22T11:48:46.629Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aiml4os.github.io/test_bartek/chapters/chapter2.html</loc>
+    <lastmod>2025-10-22T11:48:46.606Z</lastmod>
   </url>
 </urlset>
